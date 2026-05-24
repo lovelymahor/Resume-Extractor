@@ -20,6 +20,12 @@ The project is built using React for the frontend and Flask for the backend with
 
 ---
 
+## System Architecture Flow
+
+Below is the high-level architecture of the Resume Extractor system:
+
+![System Architecture](./assets/resume-extractor-architecture.png)
+
 ## Tech Stack
 
 ### Frontend
