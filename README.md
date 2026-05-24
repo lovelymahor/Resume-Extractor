@@ -1,4 +1,4 @@
-# Resume Extractor (Full Stack)
+# Resume Extractor
 
 ## Project Overview
 
